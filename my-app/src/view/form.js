@@ -1,10 +1,7 @@
 import React from "react";
 class Form extends React.Component{
-    componentDidMount() {
-        alert('yuklandi')
-    }
     render() {
-        return "salom";
+        return <h1>lorem</h1>;
     }
 }
 export default Form;
